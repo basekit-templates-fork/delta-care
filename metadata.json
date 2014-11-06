@@ -2,6 +2,7 @@
 	"name":"Sarasota",
 	"thumbnail":"thumbnail.png",
 	"screenshot":"thumbnail.png",
+    "templateType":"standard",
 	"pageTypes":[
 		"default",
 		"home"
@@ -16,54 +17,54 @@
 	"colorSwatches": {
         "Swatch 1": {
             "color1":"#ffffff",
-            "color2":"#363636",
-            "color3":"#4BA096",
+            "color2":"#03bcd6",
+            "color3":"#03bcd6",
             "color4":"#777777",
             "color5":"#a9a9a9",
-            "color6":"#191919",
+            "color6":"#03bcd6",
             "color7":"#ffffff"
         },
         "Swatch 2": {
             "color1":"#ffffff",
-            "color2":"#4e1f1f",
-            "color3":"#ffffff",
-            "color4":"#ab4343",
-            "color5":"#cf8484",
-            "color6":"#240e0e",
+            "color2":"#484848",
+            "color3":"#484848",
+            "color4":"#777777",
+            "color5":"#a9a9a9",
+            "color6":"#484848",
             "color7":"#ffffff"
         },
         "Swatch 3": {
             "color1":"#ffffff",
-            "color2":"#264744",
-            "color3":"#ffffff",
-            "color4":"#529c95",
-            "color5":"#8fc4bf",
-            "color6":"#122120",
+            "color2":"#006465",
+            "color3":"#006465",
+            "color4":"#777777",
+            "color5":"#a9a9a9",
+            "color6":"#006465",
             "color7":"#ffffff"
         },
         "Swatch 4": {
             "color1":"#ffffff",
-            "color2":"#4b3d52",
-            "color3":"#ffffff",
-            "color4":"#897196",
-            "color5":"#b4a5bc",
-            "color6":"#2f2734",
+            "color2":"#0F928C",
+            "color3":"#0F928C",
+            "color4":"#777777",
+            "color5":"#a9a9a9",
+            "color6":"#0F928C",
             "color7":"#ffffff"
         },
         "Swatch 5": {
             "color1":"#ffffff",
-            "color2":"#26384f",
-            "color3":"#ffffff",
-            "color4":"#4f75a6",
+            "color2":"#014152",
+            "color3":"#014152",
+            "color4":"#777777",
             "color5":"#8da7c9",
-            "color6":"#141d29",
+            "color6":"#014152",
             "color7":"#ffffff"
         }
     },
     "fontSwatch": {
        "title": "Lato",
         "font1": {
-            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-family": "\"Crimson Text\", \"Times New Roman\", serif",
             "font-size": "34px",
             "font-weight": "700",
             "line-height": "44px",
