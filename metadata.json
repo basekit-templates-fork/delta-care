@@ -1,67 +1,77 @@
 {
-	"name":"Delta Care",
-	"thumbnail":"thumbnail.png",
-	"screenshot":"thumbnail.png",
-    "templateType":"standard",
-	"pageTypes":[
-		"home"
-	],
-	"images":[
+    "name": "Delta Care",
+    "thumbnail": "thumbnail.png",
+    "screenshot": "delta-care-screenshot.jpg",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
+    "images": [
         "images/image-1.jpg",
         "images/image-2.jpg"
     ],
-	"tags": {
-		"en": ["minimal", "clean", "photography", "modern", "website", "creative", "unique", "media", "sans-serif"]
-	},
-	"colorSwatches": {
+    "tags": {
+        "en": [
+            "minimal",
+            "clean",
+            "photography",
+            "modern",
+            "website",
+            "creative",
+            "unique",
+            "media",
+            "sans-serif"
+        ]
+    },
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#03bcd6",
-            "color3":"#03bcd6",
-            "color4":"#777777",
-            "color5":"#a9a9a9",
-            "color6":"#03bcd6",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#03bcd6",
+            "color3": "#03bcd6",
+            "color4": "#777777",
+            "color5": "#a9a9a9",
+            "color6": "#03bcd6",
+            "color7": "#ffffff"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#484848",
-            "color3":"#484848",
-            "color4":"#777777",
-            "color5":"#a9a9a9",
-            "color6":"#484848",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#484848",
+            "color3": "#484848",
+            "color4": "#777777",
+            "color5": "#a9a9a9",
+            "color6": "#484848",
+            "color7": "#ffffff"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#006465",
-            "color3":"#006465",
-            "color4":"#777777",
-            "color5":"#a9a9a9",
-            "color6":"#006465",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#006465",
+            "color3": "#006465",
+            "color4": "#777777",
+            "color5": "#a9a9a9",
+            "color6": "#006465",
+            "color7": "#ffffff"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#0F928C",
-            "color3":"#0F928C",
-            "color4":"#777777",
-            "color5":"#a9a9a9",
-            "color6":"#0F928C",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#0F928C",
+            "color3": "#0F928C",
+            "color4": "#777777",
+            "color5": "#a9a9a9",
+            "color6": "#0F928C",
+            "color7": "#ffffff"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#014152",
-            "color3":"#014152",
-            "color4":"#777777",
-            "color5":"#8da7c9",
-            "color6":"#014152",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#014152",
+            "color3": "#014152",
+            "color4": "#777777",
+            "color5": "#8da7c9",
+            "color6": "#014152",
+            "color7": "#ffffff"
         }
     },
     "fontSwatch": {
-       "title": "Lato",
+        "title": "Lato",
         "font1": {
             "font-family": "\"Crimson Text\", \"Times New Roman\", serif",
             "font-size": "34px",
@@ -112,7 +122,7 @@
             "color-hover": "lighten(@color-swatch6, 40%)",
             "background-color": "@color-swatch2",
             "background-color-hover": "@color-swatch2"
-         },
+        },
         "font7": {
             "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
             "font-size": "15px",
